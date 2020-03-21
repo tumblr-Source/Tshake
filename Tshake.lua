@@ -5993,7 +5993,7 @@ Text = [[
 
 📋┇ [TshAkE Dev](https://t.me/TSHAKETEAM)
 
-📁┇ [Source  Files](https://t.me/Tshake_info)
+📁┇ [Source  Files](https://t.me/Tshake_sudo)
 
 🌐┇ [TshAkE iNDT](https://t.me/ZX_XX/4611)
  
